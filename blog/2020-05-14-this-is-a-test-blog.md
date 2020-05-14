@@ -1,6 +1,6 @@
 ---
 title: This is a test blog
-title_color: "#d248a15"
+title_color: "#fcfcfc"
 title_meta: test blog
 author: shaan
 created_at: 2020-05-14T09:46:09.501Z
